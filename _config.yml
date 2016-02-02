@@ -1,0 +1,28 @@
+name: Edge Entertainment
+favicon: null
+layout_spectrum: 0.4705232142005116
+typography_spectrum: 0.9796157453674823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6225153638515621
+  lightness: 0.4498541329521686
+  saturation: 0.1795677891932428
+  rhythmicContrast: 0.324538768036291
+purpose: []
